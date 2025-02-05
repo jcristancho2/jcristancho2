@@ -3,6 +3,10 @@
 
 I’m a Junior Software Developer. <br>
 
+# 💫 About Me:
+✨ I am currently studying in Backend and complemented frontend.
+<br>🧑‍💻 I am always looking for constant improvement of my skills.
+<br>🤝 I am electronic engineer with experience designing electronic cards, soldering SMD components, 3d design, construction of electronic devices and I am fond of technology.
 
 My skill set includes:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -13,6 +17,8 @@ My skill set includes:
 - **Languages**:
         
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 <br>   
     
@@ -33,9 +39,7 @@ My skill set includes:
 
 
 
-Learning and exploring new technologies on a regular basis
-Developing solutions to real-world problems through technology
-Continuously growing: I’m dedicated to enhancing my skills and embracing opportunities to enrich my expertise
+I’m dedicated to improving my skills and taking advantage of opportunities to enrich my experience, to see how an idea in my head becomes a reality just by writing lines of code.
 
 
 ## <b> Let's Connect..!</b>
@@ -46,8 +50,8 @@ Continuously growing: I’m dedicated to enhancing my skills and embracing oppor
 
 
 <li>
-<a href="juandacf@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:juandacf@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="jocristanchool@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:jocristanchool@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -60,35 +64,8 @@ Continuously growing: I’m dedicated to enhancing my skills and embracing oppor
 
 
 
-## <b>“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” —Linus Torvalds  </b>
+## <b>“Most good programmers fail a thousand times and still keep going because you know that in the end, they will succeed.  </b>
 
 
 
 
-
-HI I'M OLFER OLAYA
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# 💫 About Me:
-🔭 I’m currently studying in CAMPUSLANDS<br>👯 I’m looking to learn and improve in JAVA<br>🤝 I’m Industrial engineer with experience in software development project management<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/olfer-efrain-olaya-suarez-29663a169) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=olferios&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=olferios&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olferios&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=olferios&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=olferios&icon=4&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
