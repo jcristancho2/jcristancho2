@@ -3,7 +3,7 @@
 
 I’m a Junior Software Developer. <br>
 
-# 💫 About Me:
+# 😎 About Me:
 ✨ I am currently studying in Backend and complemented frontend.
 <br>🧑‍💻 I am always looking for constant improvement of my skills.
 <br>🤝 I am electronic engineer with experience designing electronic cards, soldering SMD components, 3d design, construction of electronic devices and I am fond of technology.
@@ -11,34 +11,15 @@ I’m a Junior Software Developer. <br>
 My skill set includes:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
 <p align="center">
 
-- **Languages**:
-        
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Languages , Freameworks & Tools**:
 
-
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
+    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+       
 I’m dedicated to improving my skills and taking advantage of opportunities to enrich my experience, to see how an idea in my head becomes a reality just by writing lines of code.
 
 
@@ -46,13 +27,10 @@ I’m dedicated to improving my skills and taking advantage of opportunities to 
 <br>
 <div align='left'>
 
-<ul>
-
-
 <li>
-<a href="jocristanchool@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:jocristanchool@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:jocristanchool@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:jocristanchool@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
 </li>
 	
 </ul>
@@ -65,7 +43,9 @@ I’m dedicated to improving my skills and taking advantage of opportunities to 
 
 
 ## <b>“Most good programmers fail a thousand times and still keep going because you know that in the end, they will succeed.  </b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcristancho2&show_icons=true&locale=en&layout=compact" alt="jcristancho2" /></p>
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&locale=en" alt="jcristancho2" /></p> -->
 
 
 
