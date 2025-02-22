@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><b>Hi , I'm Jorge Andres Cristancho Olarte </b></h1>
 
 
@@ -48,4 +49,6 @@ I’m dedicated to improving my skills and taking advantage of opportunities to 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&locale=en" alt="jcristancho2" /></p> -->
 
 
+=======
+>>>>>>> 5947d525a94954ff2e1b7bca3a4ef07cdbbed288
 
