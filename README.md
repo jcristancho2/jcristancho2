@@ -11,12 +11,7 @@ I’m a Junior Software Developer.
 <br>🤝 I am electronic engineer with experience designing electronic cards, soldering SMD components, 3d design, construction of electronic devices and I am fond of technology.
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
-
-## **Languages , Freameworks & Tools**:
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages , Freameworks & Tools</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
@@ -29,9 +24,9 @@ I’m a Junior Software Developer.
 I’m dedicated to improving my skills and taking advantage of opportunities to enrich my experience, to see how an idea in my head becomes a reality just by writing lines of code.
 
 
-## <b> Let's Connect..!</b>
+## <b>Connect..!</b>
 <br>
-<div align='left'>
+<div align='center'>
 
 <li>
   <a href="mailto:jocristanchool@gmail.com" target="_blank">
