@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Jorge Andres Cristancho Olarte </b></h1> 
 
-<h2> I’m a Junior Software Developer. <h2>
+<h3> I’m a Junior Software Developer. <h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jcristancho2&label=Profile%20views&color=2d0447&style=flat" alt="jcristancho2" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
