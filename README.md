@@ -2,6 +2,7 @@
 <h1 align="center"><b>Hi , I'm Jorge Andres Cristancho Olarte </b></h1> 
 
 <h2> I’m a Junior Software Developer. <h2>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jcristancho2&label=Profile%20views&color=2d0447&style=flat" alt="jcristancho2" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,7 +46,7 @@
 <img aling ='center' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
+## 📊 GitHub Stats:
 <p aling = "center">
   <img height ="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcristancho2&layout=compact&theme=midnight-purple&hide_border=true" /></a> 
   <img height ="150" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&theme=midnight-purple&rank_icon=github&hide_border=true" alt="jcristancho2's github stats" />
