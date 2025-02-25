@@ -47,7 +47,8 @@
 
 
 ## 📊 GitHub Stats:
-<p aling = "center">
+
+<p alling = "center">
   <img height ="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcristancho2&layout=compact&theme=midnight-purple&hide_border=true" /></a> 
   <img height ="150" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&theme=midnight-purple&rank_icon=github&hide_border=true" alt="jcristancho2's github stats" />
 </p>  
