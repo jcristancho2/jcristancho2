@@ -2,7 +2,8 @@
 
 <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">🚀 Passionate about coding, innovation, and turning ideas into reality.</p>
 
-<h3 style="font-size: 22px; font-weight: bold; color: #6a0dad;">I’m a Junior Software Developer.</h3>
+<h3 style="font-size: 22px; font-weight: bold; font color="#6a0dad">I’m a Junior Software Developer.</h3>
+
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=jcristancho2&label=Profile%20views&color=2d0447&style=flat" alt="Profile Views" />
@@ -24,7 +25,7 @@
 
 ## 🌐 Socials:
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jorge-andres-cristancho-olarte-478062283/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/>
   </a>
@@ -32,12 +33,11 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40"/>
   </a>
 </p>
-
 <hr>
 
 ## 🚀 Tech Stack:
 
-<div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
     <img src="https://skillicons.dev/icons?i=html,css"/>
     <!-- <img src="https://skillicons.dev/icons?i=react,nodejs,mysql"/> -->
@@ -48,10 +48,30 @@
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<style>
+@media (max-width: 768px) {
+  .stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (min-width: 769px) {
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+}
+</style>
+
+<div class="stats-container">
   <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcristancho2&layout=compact&theme=midnight-purple&hide_border=true"/>
   <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&theme=midnight-purple&rank_icon=github&hide_border=true"/>
 </div>
+
+<hr>
 
 <hr>
 
