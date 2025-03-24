@@ -39,8 +39,8 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
-    <img src="https://skillicons.dev/icons?i=html,css,js"/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css"/>
+    <!-- <img src="https://skillicons.dev/icons?i=react,nodejs,mysql"/> -->
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
 
@@ -48,30 +48,15 @@
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcristancho2&layout=compact&theme=midnight-purple&hide_border=true"/>
   <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&theme=midnight-purple&rank_icon=github&hide_border=true"/>
 </div>
-
-
-
 
 <hr>
 
 ## 🏆 GitHub Trophies
 
-<style>
-.trophy-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    transition: transform 0.3s ease-in-out;
-}
-.trophy-container:hover img {
-    transform: rotate(10deg) scale(1.1);
-}
-</style>
 
 <div class="trophy-container">
     <img src="https://github-profile-trophy.vercel.app/?username=jcristancho2&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/>
