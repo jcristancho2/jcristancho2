@@ -48,27 +48,14 @@
 
 ## 📊 GitHub Stats:
 
-<style>
-@media (max-width: 768px) {
-  .stats-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-}
-@media (min-width: 769px) {
-  .stats-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-}
-</style>
 
-<div class="stats-container">
+<div align="center">
+
   <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcristancho2&layout=compact&theme=midnight-purple&hide_border=true"/>
-  <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&theme=midnight-purple&rank_icon=github&hide_border=true"/>
+
+      
+  <img height="150" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=jcristancho2&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&rank_icon=github&hide_border=true"/>
+
 </div>
 
 <hr>
