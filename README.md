@@ -38,10 +38,21 @@
 ## 🚀 Tech Stack:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
-    <img src="https://skillicons.dev/icons?i=html,css,talilwing,boostrap"/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs"/>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+    <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=arduino,obsidian,python" />
+          </a>
+    </p>
+    <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+          </a>
+    </p>
+    <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+          </a>
+    </p>
 </div>
 
 <hr>
