@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">🚀 Passionate about coding, innovation, and turning ideas into reality.</p>
 
-<h3 style="font-size: 22px; font-weight: bold; font color="#6a0dad">I’m a Junior Software Developer.</h3>
+<h3 style="font-size: 22px; font-weight: bold; font color="#6a0dad">I’m a Junior Software Develope.</h3>
 
 
 <p align="right">
@@ -39,8 +39,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,obsidian,python"/> 
-    <img src="https://skillicons.dev/icons?i=html,css"/>
-    <!-- <img src="https://skillicons.dev/icons?i=react,nodejs,mysql"/> -->
+    <img src="https://skillicons.dev/icons?i=html,css,talilwing,boostrap"/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs"/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
 
