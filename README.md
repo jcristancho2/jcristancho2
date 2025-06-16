@@ -40,12 +40,12 @@
 <div align="center">
     <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=arduino,obsidian,python" />
+            <img src="https://skillicons.dev/icons?i=arduino,matlab,obsidian,python" />
           </a>
     </p>
     <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
           </a>
     </p>
      <p align="center">
