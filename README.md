@@ -40,7 +40,7 @@
 <div align="center">
     <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=arduino,matlab,obsidian,python" />
+            <img src="https://skillicons.dev/icons?i=arduino,matlab,obsidian,figma,python" />
           </a>
     </p>
     <p align="center">
