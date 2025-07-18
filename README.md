@@ -51,13 +51,37 @@
 ---
 
 ## 📌 Proyectos Destacados
-
-| Proyecto | Proyecto |
-|---------|----------|
-| [![NEURON_ESP32ADS1299](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=NEURON_ESP32ADS1299&theme=midnight-purple)](https://github.com/jcristancho2/NEURON_ESP32ADS1299) | [![API_NEURON](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=API_NEURON&theme=midnight-purple)](https://github.com/jcristancho2/API_NEURON) |
-| [![photodetector-sampling-system](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=photodetector-sampling-system&theme=midnight-purple)](https://github.com/jcristancho2/photodetector-sampling-system) | [![sistema_pedidos_frontend](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=sistema_pedidos_frontend&theme=midnight-purple)](https://github.com/jcristancho2/sistema_pedidos_frontend) |
-| [![sistema_pedidos_backend](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=sistema_pedidos_backend&theme=midnight-purple)](https://github.com/jcristancho2/sistema_pedidos_backend) |  |
-
+<!--
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jcristancho2/NEURON_ESP32ADS1299">
+        <img src="https://raw.githubusercontent.com/jcristancho2/NEURON_ESP32ADS1299/main/captura1.png" width="200px" alt="NEURON ESP32"/><br />
+        <sub><b>NEURON_ESP32ADS1299</b></sub>
+      </a>
+      <br />
+      <sub>Lectura de EEG con ESP32 + ADS1299</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jcristancho2/API_NEURON">
+        <img src="https://raw.githubusercontent.com/jcristancho2/API_NEURON/main/captura1.png" width="200px" alt="API NEURON"/><br />
+        <sub><b>API_NEURON</b></sub>
+      </a>
+      <br />
+      <sub>Frontend para señales EEG en tiempo real</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jcristancho2/photodetector-sampling-system">
+        <img src="https://raw.githubusercontent.com/jcristancho2/photodetector-sampling-system/main/captura1.png" width="200px" alt="Photodetector System"/><br />
+        <sub><b>Photodetector Sampling</b></sub>
+      </a>
+      <br />
+      <sub>Sistema óptico con ESP32</sub>
+    </td>
+  </tr>
+</table>
+-->
+---
 
 ## 📊 GitHub Stats
 
