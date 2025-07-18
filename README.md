@@ -49,44 +49,15 @@
 </p>
 
 ---
----
 
 ## 📌 Proyectos Destacados
 
-### 🔬 [NEURON_ESP32ADS1299](https://github.com/jcristancho2/NEURON_ESP32ADS1299)
-Sistema de adquisición de señales EEG usando ESP32 y el chip ADS1299.  
-🔧 **Tecnologías:** C++, Arduino, ESP-IDF  
-📦 **Aplicación:** Neurociencia · Bioinstrumentación
+| Proyecto | Proyecto |
+|---------|----------|
+| [![NEURON_ESP32ADS1299](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=NEURON_ESP32ADS1299&theme=midnight-purple)](https://github.com/jcristancho2/NEURON_ESP32ADS1299) | [![API_NEURON](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=API_NEURON&theme=midnight-purple)](https://github.com/jcristancho2/API_NEURON) |
+| [![photodetector-sampling-system](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=photodetector-sampling-system&theme=midnight-purple)](https://github.com/jcristancho2/photodetector-sampling-system) | [![sistema_pedidos_frontend](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=sistema_pedidos_frontend&theme=midnight-purple)](https://github.com/jcristancho2/sistema_pedidos_frontend) |
+| [![sistema_pedidos_backend](https://github-readme-stats.vercel.app/api/pin/?username=jcristancho2&repo=sistema_pedidos_backend&theme=midnight-purple)](https://github.com/jcristancho2/sistema_pedidos_backend) |  |
 
----
-
-### 📊 [API_NEURON](https://github.com/jcristancho2/API_NEURON)
-Frontend de visualización para señales EEG en tiempo real.  
-🌐 **Tecnologías:** HTML, CSS, JavaScript  
-📡 **Aplicación:** Interfaces cerebro-computador (BCI)
-
----
-
-### 🔦 [photodetector-sampling-system](https://github.com/jcristancho2/photodetector-sampling-system)
-Sistema de muestreo con fotodiodo y amplificador, conectado a ESP32.  
-⚙️ **Tecnologías:** C++, Arduino, EagleCAD  
-🔬 **Aplicación:** Sensado óptico y electrónica analógica
-
----
-
-### 🛠️ [sistema_pedidos_frontend](https://github.com/jcristancho2/sistema_pedidos_frontend)
-Aplicación web para gestión de pedidos.  
-📱 **Tecnologías:** React, Vite, Tailwind  
-🗃️ **Funcionalidad:** Catálogo · Carrito · Login
-
----
-
-### ⚙️ [sistema_pedidos_backend](https://github.com/jcristancho2/sistema_pedidos_backend)
-API REST para la gestión de productos y pedidos.  
-🧠 **Tecnologías:** Node.js, Express, MySQL  
-🔐 **Incluye:** Autenticación, rutas protegidas, control de inventario
-
----
 
 ## 📊 GitHub Stats
 
