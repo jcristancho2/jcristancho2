@@ -45,7 +45,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=CS" />
+  <img src="https://skillicons.dev/icons?i=cs" />
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" />
 </p>
