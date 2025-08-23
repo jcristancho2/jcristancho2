@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 18px;">🚀 Passionate about coding, innovation, and turning ideas into reality.</p>
 
-<h3 align="left"><strong>I’m a Junior front-end Developer.</strong></h3>
+<h3 align="left"><strong>“I’m a Junior Web Developer with skills in both frontend and backend.”</strong></h3>
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=jcristancho2&label=Profile%20views&color=2d0447&style=flat" alt="Profile Views" />
