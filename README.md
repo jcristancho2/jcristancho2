@@ -1,14 +1,4 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0C55,40:005B96,70:00AEEF,100:EFEAC7&section=header"/>
-  <h1 style="margin-top:-180px; color:white; border:none">Jorge Andres Cristancho Olarte</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Electronic+Engineer;Junior+Software+Developer" alt="Typing SVG"/><br>
-</div>
-<br>
-<br>
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=jcristancho2&label=Profile%20views&color=2d0447&style=flat" alt="Profile Views" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jorge%20Andres%20Cristancho%20Olarte&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Electronic%20Engineer%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50)
 
 <h3 align="center"><strong>“I’m a Junior Sofware Developer with skills in both frontend and backend.”</strong></h3>
 
