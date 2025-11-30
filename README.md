@@ -59,14 +59,14 @@
             <h4>Languages</h4>
             <p>
               <img src="https://skillicons.dev/icons?i=html,css,js" height="40"/>
-              <img src="https://skillicons.dev/icons?i=python,cs" height="40"/>
+              <img src="https://skillicons.dev/icons?i=python,cs,flutter" height="40"/>
             </p>
           </td>
           <td align="center" width="50%">
             <h4> Frameworks</h4>
             <p>
               <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="40"/>
-              <img src="https://skillicons.dev/icons?i=vite,react" height="40"/>
+              <img src="https://skillicons.dev/icons?i=vite,react,next" height="40"/>
             </p>
           </td>
         </tr>
