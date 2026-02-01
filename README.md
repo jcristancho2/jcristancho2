@@ -58,7 +58,7 @@
           <td align="center" width="50%">
             <h4>Languages</h4>
             <p>
-              <img src="https://skillicons.dev/icons?i=html,css,js" height="40"/>
+              <img src="https://skillicons.dev/icons?i=html,css,js,wasm" height="40"/>
               <img src="https://skillicons.dev/icons?i=python,cs,flutter" height="40"/>
             </p>
           </td>
@@ -80,7 +80,7 @@
           <td align="center" width="50%">
             <h4>🔧 Tools</h4>
             <p>
-              <img src="https://skillicons.dev/icons?i=vscode,git,docker" height="40"/>
+              <img src="https://skillicons.dev/icons?i=vscode,git,docker,bots" height="40"/>
             </p>
           </td>
         </tr>
