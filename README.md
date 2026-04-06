@@ -1,20 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jorge%20Andres%20Cristancho%20Olarte&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Electronic%20Engineer%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jorge%20Andres%20Cristancho%20Olarte&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20BACKEND%20ENGINEER&descSize=18&descAlignY=55&descAlign=50)
 
-<h3 align="center"><strong>“I’m a Junior Sofware Developer with skills in both frontend and backend.”</strong></h3>
+<h2 align="center">
+<strong>AI Backend Engineer building scalable systems, APIs and intelligent workflows</strong>
+</h2>
 
 <p align="center" style="font-size: 14px;"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" />
-    Passionate about innovation, coding, and turning  my ideas into reality.
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" />
+  Focused on <b>AI integration, backend architectures, and automation workflows (n8n)</b><br/>
+  Passionate about building intelligent systems that solve real-world problems
 </p>
 
 
-
-<h2 align="left">
+<h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" width="30"/> About Me
-</h2>
+</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Learning**: Backend & Frontend to build scalable applications.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **AI Backend Engineer** specialized in building scalable backend systems and APIs  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="25" height="25" /> **Passionate**: Continuous learning & growth mindset.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Engineer**: Electronics background with PCB design, soldering & 3D prototyping.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> **Vision**: Merging hardware and software into impactful solutions.  
@@ -44,8 +44,8 @@
 
 
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> Skills
-</h2>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> Skills
+</h3>
 
 <div align="center">
 
@@ -140,8 +140,7 @@
 </div>
 
 
----
-<!--## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Proyectos Destacados
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Proyectos Destacados
 
 <table>
   <tr>
@@ -182,15 +181,5 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcristancho2&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jcristancho2&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
----
 
 
