@@ -14,11 +14,14 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" width="30"/> About Me
 </h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **AI Backend Engineer** specialized in building scalable backend systems and APIs  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="25" height="25" /> **Passionate**: Continuous learning & growth mindset.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Engineer**: Electronics background with PCB design, soldering & 3D prototyping.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> **Vision**: Merging hardware and software into impactful solutions.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> **Goal**: Becoming a Fullstack Developer specialized in IoT & innovative systems.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> AI Backend Engineer specialized in designing and building scalable, high-performance backend systems and APIs.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="25" height="25" /> Focused on applying modern architectures and data-driven solutions to real-world problems.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> With a background in electronics, I bring hands-on experience in PCB design, soldering, and 3D prototyping, enabling a strong bridge between hardware and software systems.
+ 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Passionate about integrating embedded systems with intelligent backend services, creating end-to-end solutions that deliver tangible impact.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Career Goal: To grow into a Fullstack Engineer specialized in IoT and innovative systems, combining software engineering, AI, and hardware design to build cutting-edge technological solutions. 
 <br/>
 
 
@@ -136,42 +139,7 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Proyectos Destacados
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jcristancho2/NEURON_ESP32ADS1299">
-        <img src="https://raw.githubusercontent.com/jcristancho2/NEURON_ESP32ADS1299/main/captura1.png" width="200px" alt="NEURON ESP32"/><br />
-        <sub><b>NEURON_ESP32ADS1299</b></sub>
-      </a>
-      <br />
-      <sub>Lectura de EEG con ESP32 + ADS1299</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jcristancho2/API_NEURON">
-        <img src="https://raw.githubusercontent.com/jcristancho2/API_NEURON/main/captura1.png" width="200px" alt="API NEURON"/><br />
-        <sub><b>API_NEURON</b></sub>
-      </a>
-      <br />
-      <sub>Frontend para señales EEG en tiempo real</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jcristancho2/photodetector-sampling-system">
-        <img src="https://raw.githubusercontent.com/jcristancho2/photodetector-sampling-system/main/captura1.png" width="200px" alt="Photodetector System"/><br />
-        <sub><b>Photodetector Sampling</b></sub>
-      </a>
-      <br />
-      <sub>Sistema óptico con ESP32</sub>
-    </td>
-  </tr>
-</table>
--->
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
